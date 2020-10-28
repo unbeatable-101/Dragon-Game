@@ -1,4 +1,4 @@
 language: python
 python:
  - "3.9"
-script: Dragon_Game/Dragon_Game
+script: Dragon_Game/Dragon_Game.py
