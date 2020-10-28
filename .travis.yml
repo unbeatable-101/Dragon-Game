@@ -1,5 +1,4 @@
-os: windows
 language: python
-python:
- - "3.9"
-script: Dragon_Game/Dragon_Game.py
+python: 3.9
+cache: pip
+script: python Dragon_Game/Gragon_Game.py
