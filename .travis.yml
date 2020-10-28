@@ -1,3 +1,4 @@
 language: python
-rvm:
+python:
  - "3.9"
+script: Dragon_Game
