@@ -6,4 +6,5 @@ python:
   - "3.6"
   - "3.5"
   - "pypy"
+  - "2.7.18"
 script: python Dragon_Game/Dragon_Game_Test.py
