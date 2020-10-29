@@ -1,1 +1,1 @@
-pyfiglet
+pyfiglet==0.8.0
