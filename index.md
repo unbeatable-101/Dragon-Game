@@ -4,4 +4,4 @@ If you have any bugs, report them [here](https://github.com/unbeatable-101/Drago
 
 ### Playing 
 
-If you would like to play, you can dowload the latest release from https://github.com/unbeatable-101/Dragon-Game/releases
+If you would like to play, you can dowload the latest release from [https://github.com/unbeatable-101/Dragon-Game/releases](https://github.com/unbeatable-101/Dragon-Game/releases)
