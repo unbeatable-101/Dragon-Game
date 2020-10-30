@@ -1,8 +1,7 @@
 os: linux
-dist: xenial
+dist: focal 
 language: python
 python: 
-  - https://www.python.org/ftp/python/3.10.0/Python-3.10.0a1.tgz
   - "3.9"
   - "3.8"
   - "3.7"
