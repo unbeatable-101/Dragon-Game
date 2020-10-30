@@ -6,9 +6,5 @@ python:
   - "3.8"
   - "3.7"
   - "2.7.18"
-  matrix: 
-    include:
-      -pypy
-      dist: xenial
-    
+
 script: python Dragon_Game/Dragon_Game_Test.py
