@@ -1,3 +1,4 @@
+import os
 import random
 import time
 import pyfiglet
@@ -17,7 +18,7 @@ def chooseCave():
     cave = ''
     while cave !='1' and cave !='2' and cave !='3' and cave !='4':
         print('Which cave will you go into? (1, 2 or 3)')
-        cave = '4'
+        cave = os.environ[cave]
 
     return cave
 
@@ -50,11 +51,15 @@ def checkCave(chosenCave):
             if chosenCave == '4':
                 print('''You look up and see a hole in the ceiling,
 you climb through it and find a whole room full of tresures!''')
-                time.sleep(1)
+                time.sleep(2)
                 print()
-                print('''As you are collecting your winnings, you see somebody
-approaching you, "My name is Mailliw, you have found the secrect room, and
-for that you must be rewarded." He says. \nYou thought that the room was already stuffed with treasures,
+                print('''As you are bagging what you found, you see somebody
+approaching you, "My name is Mailliw" He says, "you have found the secrect room,
+and for that you must be rewarded."''')
+                time.sleep(2)
+                print('''
+
+You thought that the room was already stuffed with treasures,
 but then more rain down from the ceiling!''')
                 time.sleep(3)
                 print(ascii_banner)
@@ -75,4 +80,4 @@ while playAgain =='yes' or playAgain =='y':
     checkCave(caveNumber)
 
     print('Do you want to play again?(yes or no)')
-    playAgain = "n"
+    playAgain = 'no'
