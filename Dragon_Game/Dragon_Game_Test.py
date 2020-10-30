@@ -18,7 +18,7 @@ def chooseCave():
     cave = ''
     while cave !='1' and cave !='2' and cave !='3' and cave !='4':
         print('Which cave will you go into? (1, 2 or 3)')
-        cave = os.environ[cave]
+        cave = os.environ['cave']
 
     return cave
 
