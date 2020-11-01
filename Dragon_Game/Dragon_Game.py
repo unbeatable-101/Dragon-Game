@@ -1,5 +1,5 @@
 '''
-**************************************************************************
+*************************************************************************
 This is a game where you choose between 3 caves to try and get treasure.
 Copyright (C) 2020  unbeatable-101
 
@@ -15,7 +15,7 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
-**************************************************************************
+*************************************************************************
 '''
 import random
 import time
