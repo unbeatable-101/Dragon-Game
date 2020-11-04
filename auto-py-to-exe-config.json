@@ -7,11 +7,11 @@
   },
   {
    "optionDest": "filenames",
-   "value": "E:/Python/Dragon_Game/Dragon_Game/Dragon_Game.py"
+   "value": "E:\\Python\\Dragon_Game\\Dragon_Game\\Dragon_Game.py"
   },
   {
    "optionDest": "onefile",
-   "value": true
+   "value": false
   },
   {
    "optionDest": "console",
@@ -60,6 +60,10 @@
   {
    "optionDest": "datas",
    "value": "E:/Python/Dragon_Game/Dragon_Game/pyfiglet;pyfiglet/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Python/Dragon_Game/Dragon_Game/pyfiglet/LICENSE.txt;."
   }
  ],
  "nonPyinstallerOptions": {
