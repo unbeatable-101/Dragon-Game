@@ -60,6 +60,10 @@
   {
    "optionDest": "datas",
    "value": "E:/Python/Dragon_Game/Dragon_Game/pyfiglet;pyfiglet/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "E:/Python/Dragon_Game/Dragon_Game/pyfiglet/LICENSE.txt;."
   }
  ],
  "nonPyinstallerOptions": {
